@@ -1,3 +1,3 @@
 # Music-Control
-Class Deep Learning
+20-2 Deep Learning  
 Team project
