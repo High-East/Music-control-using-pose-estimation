@@ -1,4 +1,4 @@
-# Music Control
+# Music control using pose estimation
 20-2 Deep Learning team project
 
 ## Timeline
