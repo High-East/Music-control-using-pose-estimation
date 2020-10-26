@@ -1,6 +1,5 @@
 # Music-Control
-20-2 Deep Learning  
-Team project
+20-2 Deep Learning team project
 
 ## Timelines
 |Date|Contents|
