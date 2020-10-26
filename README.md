@@ -1,7 +1,7 @@
 # Music-Control
 20-2 Deep Learning team project
 
-## Timelines
+## Timeline
 |Date|Contents|
 |:---:|:---:|
 |10/29 - 11/11|Model test & Code review|
